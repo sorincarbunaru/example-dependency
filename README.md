@@ -1,7 +1,7 @@
 ex-dependency
 =============
 
-This repository contains several project files and an external Git repository dependency that demonstrates submodule usage.
+This repository cossssntains several project files and an external Git repository dependency that demonstrates submodule usage.
 
 ## Usage
 
